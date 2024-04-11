@@ -1,0 +1,27 @@
+.multi-step-quiz-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+  padding: 100px;
+}
+
+.multi-step-quiz-title {
+  margin-bottom: 50px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.previous-btn-hidden {
+  visibility: hidden;
+}
+
+.btn {
+  cursor: pointer;
+}
